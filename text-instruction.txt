@@ -16,4 +16,8 @@ Bonus: Practice flex & grid.
 [Resouses]
 Flexbox => https://www.youtube.com/watch?v=kRS5ficucNM&t=2723s
 Grid => https://www.youtube.com/watch?v=kEFIdXzQXYw&t=116s
-Responsive Web Design : https://youtu.be/pCaf9WfDD6s
+Responsive Web Design : https://youtu.be/pCaf9WfDD6s 
+
+Blog: 
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+https://css-tricks.com/snippets/css/complete-guide-grid/

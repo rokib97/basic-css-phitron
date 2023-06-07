@@ -1,0 +1,21 @@
+.background-image {
+  height: 300px;
+  background-image: url("../images/two.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#small {
+  display: block;
+}
+#welcome {
+  display: block;
+}
+.small {
+  display: block;
+  width: 800px;
+  height: 200px;
+  background-color: red;
+}
+.everyone {
+  text-decoration: underline;
+}

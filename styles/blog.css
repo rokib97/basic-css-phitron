@@ -1,6 +1,9 @@
 * {
   margin: 0;
 }
+/* body {
+  font-family: "Poppins", sans-serif;
+} */
 .blog {
   background-color: red;
   /* margin: 15px 60px 15px 25px;
@@ -16,10 +19,24 @@
   height: 200px;
   padding: 25px;
 }
+/* test section styles hare */
 .test {
   background-color: green;
   width: 50%;
   margin: 0 auto;
   /* padding: 10px 25px 10px 25px; */
   padding-bottom: 50px;
+}
+
+.section-heading {
+  font-weight: 900;
+  font-size: large;
+  text-transform: uppercase;
+}
+.first-heading {
+  text-align: center;
+  font-size: large;
+  font-weight: 900;
+  margin-top: 25px;
+  font-family: "Poppins", sans-serif;
 }
