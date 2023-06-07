@@ -1,0 +1,19 @@
+Getting Started With CSS
+
+Topics 
+1)What is CSS, syntax, Inline, internal and external css
+2)Color, Measuring Unit, font size, font-weight, height, width, text-alignment
+3)Simple CSS selectors, id, class, tag, universal, ID vs class
+4)Mixed Selectors: div, span, combined, tag, class, common class, code comment.
+5)Border, border radius, margin, width, different ways to set margin.
+6)CSS Box model, Margin, padding, border, content, height, width.
+7)Inline, internal(embeded) and external css,
+8) Background image, repeat, position, size, relative image path
+9)Display none, inline, block, inline-block, attribute selector, decoration, shadow, text-decoration.
+
+Bonus: Practice flex & grid.
+
+[Resouses]
+Flexbox => https://www.youtube.com/watch?v=kRS5ficucNM&t=2723s
+Grid => https://www.youtube.com/watch?v=kEFIdXzQXYw&t=116s
+Responsive Web Design : https://youtu.be/pCaf9WfDD6s
